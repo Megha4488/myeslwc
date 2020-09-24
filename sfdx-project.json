@@ -6,6 +6,14 @@
     },
     {
       "path": "./es-base-styles",
+      "default": false
+    },
+    {
+      "path": "./es-base-code",
+      "default": false
+    },
+    {
+      "path": "./es-space-mgmt",
       "default": true
     }
   ],

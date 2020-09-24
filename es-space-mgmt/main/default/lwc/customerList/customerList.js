@@ -1,6 +1,8 @@
+
+
 import { LightningElement } from 'lwc';
 export default class CustomerList extends LightningElement {
-    customers =[
+    customers = [
         {
             "name": "Test 1",
             "email": "test1@example.com",
@@ -28,4 +30,3 @@ export default class CustomerList extends LightningElement {
     ];
     
 }
-
